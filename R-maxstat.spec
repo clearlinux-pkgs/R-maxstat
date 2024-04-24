@@ -7,7 +7,7 @@
 #
 Name     : R-maxstat
 Version  : 0.7.25
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/maxstat_0.7-25.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/maxstat_0.7-25.tar.gz
 Summary  : Maximally Selected Rank Statistics
@@ -42,10 +42,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1713979413
+export SOURCE_DATE_EPOCH=1713980613
 
 %install
-export SOURCE_DATE_EPOCH=1713979413
+export SOURCE_DATE_EPOCH=1713980613
 rm -rf %{buildroot}
 LANG=C.UTF-8
 CFLAGS="$CLEAR_INTERMEDIATE_CFLAGS -O3 -flto -fno-semantic-interposition "
