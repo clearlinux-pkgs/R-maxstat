@@ -7,7 +7,7 @@
 #
 Name     : R-maxstat
 Version  : 0.7.25
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/maxstat_0.7-25.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/maxstat_0.7-25.tar.gz
 Summary  : Maximally Selected Rank Statistics
